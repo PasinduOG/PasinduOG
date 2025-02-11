@@ -3,7 +3,6 @@
 <tr border="none">
 <td width="50%" align="left">
 
-<h2 align="center">Meet Pasindu OG Dev</h2>
 <h3 align="center">Hello! 👋 I'm Pasindu Madhuwantha.</h3>
 
 <br>
