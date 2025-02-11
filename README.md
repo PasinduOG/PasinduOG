@@ -56,3 +56,5 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+![snake gif](https://github.com/vibodhaliyanage/vibodhaliyanage/blob/output/github-snake-dark.svg)
