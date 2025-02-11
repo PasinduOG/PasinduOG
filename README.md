@@ -3,10 +3,6 @@
 <tr border="none">
 <td width="50%" align="left">
 
-<h3 align="center">Hello! 👋 I'm Pasindu Madhuwantha.</h3>
-
-<br>
-  
 - 🌱 I’m currently learning **Backend Languages including Java, Python, jQuery, Laravel, PHP, and Mastering JavaScript**
 
 - 🧑‍🎓 I'm an Undergraduate at **Java Institute for Advanced Technology**
