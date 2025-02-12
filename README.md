@@ -13,7 +13,7 @@
 
 - 👨‍💻 **Team Leader and Co-Founder of Lexfury Software Solutions | Founder and Backend Dev Lead of KreedX Dev Club**
 
-- ⚡ Fun fact: **Call me as OG**
+- ⚡ Fun fact: **Call me OG**
 
 </td>
 
