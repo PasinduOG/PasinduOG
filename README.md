@@ -27,7 +27,7 @@
     
 <hr>
 
-## My Logo:
+## 🧑‍💻 My Logo:
   <img align="center" alt="pasinduogdev" src="pasinduogdev.png" width="25%">
 
 <hr>
