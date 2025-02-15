@@ -64,4 +64,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🐍 Contributions eat by a snake
-![snake gif](https://github.com/vibodhaliyanage/vibodhaliyanage/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/PasinduOG/PasinduOG/blob/output/github-snake-dark.svg)
