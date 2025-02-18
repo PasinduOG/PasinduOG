@@ -66,3 +66,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🐍 Contributions eating by a Snake
+![GitHub Snake](https://github.com/PasinduOG/PasinduOG/blob/output/github-contribution-grid-snake.svg)
