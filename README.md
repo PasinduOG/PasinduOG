@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **HTML, CSS, JS, PHP, Java, Bootstrap 5, and MySQL**
 
-- 📫 How to reach me **ogpmadhuwantha678@gmail.com** and also **pasinduogdev@gmail.com**
+- 📫 How to reach me **pasinduogdev@gmail.com** and also **ogpmadhuwantha678@gmail.com**
 
 - 👨‍💻 **Team Leader and Co-Founder of Lexfury Software Solutions | Founder and Backend Dev Lead of KreedX Dev Club**
 
