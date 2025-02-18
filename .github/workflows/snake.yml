@@ -16,13 +16,13 @@ jobs:
         uses: Platane/snk@v2
         with:
           github_user_name: ${{ github.repository_owner }}
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          outputs: dist/snake.svg
 
       - name: Commit and push the generated snake
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add -f dist/github-contribution-grid-snake.svg
+          git add -f dist/snake.svg
           git commit -m "Generated snake"
           git push
         env:
