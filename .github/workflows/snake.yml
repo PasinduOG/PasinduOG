@@ -15,7 +15,7 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@v2
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: PasinduOG
           outputs: dist/snake.svg
 
       - name: Commit and push the generated snake
