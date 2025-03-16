@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **pasinduogdev@gmail.com** and also **ogpmadhuwantha678@gmail.com**
 
-- 👨‍💻 **Team Leader and Co-Founder of Lexfury Software Solutions | Founder and Backend Dev Lead of KreedX Dev Club**
+- 👨‍💻 **I'm a passionate backend developer**
 
 - ⚡ Fun fact: **Call me OG**
 
