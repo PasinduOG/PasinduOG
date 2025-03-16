@@ -17,7 +17,7 @@
 
 - 👨‍💻 **I'm a passionate backend developer**
 
-- ⚡ Fun fact: **Call me OG**
+- ⚡ Fun fact: **I know Sinhala**
 
 </td>
 
