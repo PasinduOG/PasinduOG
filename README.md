@@ -7,7 +7,7 @@
 
 <hr/>
 
-- 🌱 I’m currently learning **Backend Languages including Java SE, Java EE, Laravel, and Node js**
+- 🌱 I’m currently learning **Backend Languages including Java SE, Java EE, Laravel, and Node.js**
 
 - 🧑‍🎓 I'm an Undergraduate at **Java Institute for Advanced Technology**
 
