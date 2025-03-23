@@ -35,7 +35,6 @@
 ![GitHub Followers](https://img.shields.io/github/followers/PasinduOG?logo=github&style=for-the-badge&color=0891b2&labelColor=000000)
 [![GitHub Following](https://img.shields.io/badge/Following-Check%20Profile-0891b2?style=for-the-badge&logo=github&labelColor=000000)](https://github.com/PasinduOG?tab=following)
 [![GitHub Public Repositories](https://img.shields.io/badge/Public%20Repositories-Check%20Profile-0891b2?style=for-the-badge&logo=github&labelColor=000000)](https://github.com/PasinduOG?tab=repositories)
-[![GitHub Forks](https://img.shields.io/github/forks/PasinduOG/REPO_NAME?logo=github&style=for-the-badge&color=0891b2&labelColor=000000)](https://github.com/PasinduOG/REPO_NAME/forks)
     
 <hr>
 
