@@ -7,11 +7,11 @@
 
 <hr/>
 
-- 🌱 I’m currently learning **Backend Languages including Java SE, Java EE, Laravel, and Node.js**
+- 🌱 I’m currently learning **MERN, Java EE, Spring Boot, and Laravel**
 
 - 🧑‍🎓 I'm an Undergraduate at **Java Institute for Advanced Technology**
 
-- 💬 Ask me about **JS, PHP, Java SE, and MySQL**
+- 💬 Ask me about **JS, PHP, Java, and MySQL**
 
 - 📫 How to reach me **pasinduogdev@gmail.com** and also **ogpmadhuwantha678@gmail.com**
 
