@@ -11,7 +11,7 @@
 
 - 🧑‍🎓 I'm an Undergraduate at **Java Institute for Advanced Technology**
 
-- 💬 Ask me about **JS, PHP, Java, and MySQL**
+- 💬 Ask me about **JS, Express, PHP, Java, and MySQL**
 
 - 📫 How to reach me **pasinduogdev@gmail.com** and also **ogpmadhuwantha678@gmail.com**
 
