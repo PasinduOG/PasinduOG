@@ -7,7 +7,7 @@
 
 <hr/>
 
-- 🌱 I’m currently learning **MERN, Java EE, Spring Boot, and Laravel**
+- 🌱 I’m currently learning **MERN, Java EE, Hibernate, Spring Boot**
 
 - 🧑‍🎓 I'm an Undergraduate at **Java Institute for Advanced Technology**
 
