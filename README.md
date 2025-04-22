@@ -7,17 +7,17 @@
 
 <hr/>
 
-- 🌱 I’m currently learning **MERN, Java EE, Hibernate, Spring Boot**
+- 🌱 I’m currently learning **MERN, Java, Java EE, Hibernate, Spring Boot**
 
 - 🧑‍🎓 I'm an Undergraduate at **Java Institute for Advanced Technology**
 
-- 💬 Ask me about **JS, Express, PHP, Java, and MySQL**
+- 💬 Ask me about **HTML, JS, PHP, and MySQL**
 
-- 📫 How to reach me **pasinduogdev@gmail.com** and also **ogpmadhuwantha678@gmail.com**
+- 📫 How to reach me **pasinduogdev@gmail.com**
 
 - 👨‍💻 **I'm a passionate backend developer**
 
-- ⚡ Fun fact: **I know Sinhala**
+- ⚡ Fun fact: **I don't like designs**
 
 </td>
 
@@ -45,8 +45,17 @@
 ## 🌐 Socials:
 <p align="left"> <a href="https://discord.com/users/pasinduogdev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.facebook.com/pasindu.og.dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/PasinduOG" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@pasindu_og_dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p>
 
+<hr/>
+
 ## 💻 Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,php,wordpress,mysql,react,nodejs,npm,express,vscode,java,idea,postman,hibernate,spring,discord,figma,arduino,git,github,windows&perline=12)](https://skillicons.dev)
+
+### 👨‍💻 Learned:
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,php,wordpress,mysql,nodejs,npm,express,vscode,postman,discord,git,github,windows&perline=12)](https://skillicons.dev)
+
+### 🌱 Currently self learning:
+[![My Skills](https://skillicons.dev/icons?i=ts,mongo,react,firebase,java,python,idea,laravel,hibernate,spring,figma,arduino&perline=12)](https://skillicons.dev)
+
+<hr/>
 
 ### 💰 You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/pasinduogdev)
@@ -74,14 +83,13 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-### 🎵 Recently played on Spotify
+<!-- ### 🎵 Recently played on Spotify
 <div align="left">
   <a href="https://open.spotify.com/user/dzicl3p76u7g1yh3wc4har5h8">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=dzicl3p76u7g1yh3wc4har5h8&count=5" alt="Spotify recently played"  />
   </a>
-</div>
+</div> -->
 
-### 👻 Contributions eating by Pacman
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PasinduOG/PasinduOG/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PasinduOG/PasinduOG/output/pacman-contribution-graph.svg">
