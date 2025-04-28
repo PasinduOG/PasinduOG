@@ -68,7 +68,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,php,wordpress,mysql,nodejs,npm,express,vscode,postman,discord,git,github,windows&perline=12)](https://skillicons.dev)
 
 ### 🌱 Currently self learning:
-[![My Skills](https://skillicons.dev/icons?i=ts,mongo,react,firebase,java,python,idea,laravel,hibernate,spring,figma,arduino&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=unity,ts,mongo,react,firebase,java,python,idea,laravel,hibernate,spring,arduino&perline=12)](https://skillicons.dev)
 
 <hr/>
 
