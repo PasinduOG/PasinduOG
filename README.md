@@ -1,4 +1,4 @@
-<table align="center">
+<!-- <table align="center">
 <tr border="none">
 <td width="50%" align="left">
 
@@ -19,16 +19,31 @@
 
 - ⚡ Fun fact: **I don't like designs**
 
-</td>
+</td> -->
 
-<td width="50%" align="center">
-<!--   <img align="right" alt="coding" src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzkyMzM2NjAsIm5iZiI6MTczOTIzMzM2MCwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjExVDAwMjI0MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY0OWM3YzIzOThlMmIyZWI2ZGJlN2EyZTk4NDVmZmE2OGRiY2FlN2M4NGU5NWE4NDM0MmE5MTc4MjFiZGI4NzImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.5lANW5iUS0Cj9cls8Yk9ROEJUhYR460S3bFRDfeGrQQ" width="100%"> -->
+<!-- <td width="50%" align="center">
+<!--   <img align="right" alt="coding" src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzkyMzM2NjAsIm5iZiI6MTczOTIzMzM2MCwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjExVDAwMjI0MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY0OWM3YzIzOThlMmIyZWI2ZGJlN2EyZTk4NDVmZmE2OGRiY2FlN2M4NGU5NWE4NDM0MmE5MTc4MjFiZGI4NzImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.5lANW5iUS0Cj9cls8Yk9ROEJUhYR460S3bFRDfeGrQQ" width="100%">
   <img align="right" alt="coding" src="github-pet.gif">
 </td>
   
 </tr>
 
-</table>
+</table> -->
+
+<h3>Hello! 👋 I'm Pasindu Madhuwantha.</h3>
+<hr/>
+
+- 🌱 I’m currently learning **MERN, Java, Java EE, Hibernate, Spring Boot**
+
+- 🧑‍🎓 I'm an Undergraduate at **Java Institute for Advanced Technology**
+
+- 💬 Ask me about **HTML, JS, PHP, and MySQL**
+
+- 📫 How to reach me **pasinduogdev@gmail.com**
+
+- 👨‍💻 **I'm a passionate backend developer**
+
+- ⚡ Fun fact: **I don't like designs**
 
 <hr/>
 
