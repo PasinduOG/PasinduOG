@@ -37,7 +37,7 @@
 
 <!-- 🧑‍🎓 I'm an Undergraduate at **Java Institute for Advanced Technology** -->
 
-- 💬 Ask me about **HTML, JS, PHP, and MySQL**
+- 💬 Ask me about **HTML, JS, PHP, Node.js and MySQL**
 
 - 📫 How to reach me **pasinduogdev@gmail.com**
 
