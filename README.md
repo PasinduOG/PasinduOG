@@ -33,9 +33,9 @@
 <h3>Hello! 👋 I'm Pasindu Madhuwantha.</h3>
 <hr/>
 
-- 🌱 I’m currently learning **MERN, Java, Java EE, Hibernate, Spring Boot**
+- 🌱 I’m currently learning **New Technologies and Microservices**
 
-- 🧑‍🎓 I'm an Undergraduate at **Java Institute for Advanced Technology**
+<!-- 🧑‍🎓 I'm an Undergraduate at **Java Institute for Advanced Technology** -->
 
 - 💬 Ask me about **HTML, JS, PHP, and MySQL**
 
