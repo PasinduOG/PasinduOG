@@ -43,7 +43,7 @@
 
 - 👨‍💻 **I'm a passionate backend developer**
 
-- ⚡ Fun fact: **I don't like designs**
+- ⚡ Fun fact: **I hate frondends**
 
 <hr/>
 
