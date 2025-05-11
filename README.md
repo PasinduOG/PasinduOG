@@ -86,16 +86,8 @@
 
 <a href="https://github.com/PasinduOG" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PasinduOG&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-## 🔝 Top Projects
-
-[![**To-Do-App**](https://github-readme-stats.vercel.app/api/pin/?username=PasinduOG&repo=To-Do-App&theme=dark)](https://github.com/PasinduOG/To-Do-App)
-[![**Facebook-Video-Downloader**](https://github-readme-stats.vercel.app/api/pin/?username=PasinduOG&repo=Facebook-Video-Downloader&theme=dark)](https://github.com/PasinduOG/Facebook-Video-Downloader)
-[![**first-app**](https://github-readme-stats.vercel.app/api/pin/?username=PasinduOG&repo=first-app&theme=dark)](https://github.com/PasinduOG/first-app)
-[![**PasinduOG.github.io**](https://github-readme-stats.vercel.app/api/pin/?username=PasinduOG&repo=PasinduOG.github.io&theme=dark)](https://github.com/PasinduOG/PasinduOG.github.io)
-
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 
 <!-- ### 🎵 Recently played on Spotify
 <div align="left">
