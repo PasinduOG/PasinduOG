@@ -65,10 +65,10 @@
 ## 💻 Languages & Tools:
 
 ### 👨‍💻 Learned:
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,html,css,js,react,bootstrap,tailwind,nodejs,express,php,wordpress,mysql&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,html,css,js,react,bootstrap,tailwind,nodejs,express,php,wordpress,mysql,arduino&perline=12)](https://skillicons.dev)
 
 ### 🌱 Currently self learning:
-[![My Skills](https://skillicons.dev/icons?i=unity,npm,ts,mongo,firebase,java,python,laravel,spring,arduino&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=unity,next,mongo,firebase,java,python,laravel,spring&perline=12)](https://skillicons.dev)
 
 <hr/>
 
