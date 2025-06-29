@@ -37,7 +37,7 @@
 
 <!-- 🧑‍🎓 I'm an Undergraduate at **Java Institute for Advanced Technology** -->
 
-- 💬 Ask me about **HTML, JS, PHP, Node.js and MySQL**
+<!-- - 💬 Ask me about **HTML, JS, PHP, Node.js and MySQL** -->
 
 - 📫 How to reach me **pasinduogdev@gmail.com**
 
@@ -64,11 +64,11 @@
 
 ## 💻 Languages & Tools:
 
-### 👨‍💻 Learned:
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,html,css,js,react,vite,bootstrap,tailwind,nodejs,express,php,wordpress,mysql,arduino&perline=12)](https://skillicons.dev)
-
 ### 🌱 Currently self learning:
-[![My Skills](https://skillicons.dev/icons?i=unity,next,mongo,firebase,java,python,laravel,spring&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,html,css,js,react,vite,bootstrap,tailwind,nodejs,express,php,wordpress,mysql,arduino,unity,next,mongo,firebase,java,python,laravel,spring&perline=12)](https://skillicons.dev)
+
+<!-- ### 🌱 Currently self learning:
+[![My Skills](https://skillicons.dev/icons?i=unity,next,mongo,firebase,java,python,laravel,spring&perline=12)](https://skillicons.dev) -->
 
 <hr/>
 
