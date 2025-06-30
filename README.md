@@ -65,7 +65,7 @@
 ## 💻 Languages & Tools:
 
 ### 🌱 Currently self learning:
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,html,css,js,react,vite,bootstrap,tailwind,nodejs,express,php,wordpress,mysql,arduino,unity,next,mongo,firebase,java,python,laravel,spring&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,html,css,js,react,vite,bootstrap,tailwind,nodejs,express,php,wordpress,mysql,unity,next,mongo,java,python,spring,hibernate&perline=12)](https://skillicons.dev)
 
 <!-- ### 🌱 Currently self learning:
 [![My Skills](https://skillicons.dev/icons?i=unity,next,mongo,firebase,java,python,laravel,spring&perline=12)](https://skillicons.dev) -->
