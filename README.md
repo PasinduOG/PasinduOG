@@ -94,11 +94,6 @@
 ## 💻 Languages & Tools:
 
 ### 🌱 Currently self learning:
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,java,idea,html,css,js,bootstrap,mysql" />
-  </a>
-</p>
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,java,idea,html,css,js,bootstrap,mysql)](https://skillicons.dev)
 
 <!-- ### 🌱 Currently self learning:
