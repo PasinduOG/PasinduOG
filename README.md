@@ -54,7 +54,8 @@
 <hr>
 
 ### 🧑‍💻 My Logo:
-  <img align="center" alt="pasinduogdev" src="pasinduogdev.png" width="10%">
+  <img align="center" alt="pasinduogdev" src="pasinduogdev.png" width="10%"><img align="center" alt="pasinduogdev" src="DEV4LIFE.jpg" width="10%">
+  <!--<img align="center" alt="pasinduogdev" src="DEV4LIFE.jpg" width="10%">-->
 
 
 ## 🌐 Socials:
