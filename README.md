@@ -10,6 +10,11 @@
   <em>Transforming ideas into scalable backend solutions</em>
 </p>
 
+<p align="center">
+  <img src="pasinduogdev.png" alt="PasinduOG Dev Logo" width="80"/>
+  <img src="DEV4LIFE.jpg" alt="DEV4LIFE Logo" width="80" style="margin-left: 20px;"/>
+</p>
+
 <img align="right" alt="coding" src="github-pet.gif" width="400" style="margin: 0 0 20px 20px;">
 
 </div>
