@@ -3,7 +3,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/> Hey there, I'm **Pasindu Madhuwantha**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&height=60&lines=🚀+Backend+Developer;💻+Full-Stack+Enthusiast;🔧+Problem+Solver;⚡+Code+Craftsman;🎯+System+Architect;💡+DEV4LIFE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&height=60&lines=🚀+Passionate+Backend+Developer;💻+Full-Stack+Enthusiast;🔧+Problem+Solver;⚡+CodeCraftsman;💡+DEV4LIFE" alt="Typing SVG" />
 </p>
 
 <p align="center">
