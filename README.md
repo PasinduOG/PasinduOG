@@ -1,34 +1,6 @@
 <div align="center">
 
-<img align="right" alt="coding" src="github-pet.gif" width="400" style="margin: 0 0 20px 20px;">
-
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/> Hey th## 📊 GitHub Analytics
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=PasinduOG&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&custom_title=GitHub%20Statistics"/>
-</td>
-<td align="center">
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PasinduOG&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Most%20Used%20Languages"/>
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td align="center" width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PasinduOG&theme=tokyonight&hide_border=true&stroke=70a5fd&background=1a1b27&ring=bf7af7&fire=70a5fd&currStreakLabel=70a5fd" />
-</td>
-<td align="center" width="50%">
-<img src="https://github-profile-trophy.vercel.app/?username=PasinduOG&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=3" />
-</td>
-</tr>
-</table>
-
-</div>indu Madhuwantha**
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/> Hey there, I'm **Pasindu Madhuwantha**
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&height=60&lines=🚀+Backend+Developer;💻+Full-Stack+Enthusiast;🔧+Problem+Solver;⚡+Code+Craftsman;🎯+System+Architect;💡+DEV4LIFE" alt="Typing SVG" />
@@ -38,7 +10,7 @@
   <em>Transforming ideas into scalable backend solutions</em>
 </p>
 
-<br clear="right"/>
+<img align="right" alt="coding" src="github-pet.gif" width="400" style="margin: 0 0 20px 20px;">
 
 </div>
 
@@ -56,7 +28,7 @@ I specialize in crafting robust backend solutions that power modern applications
 
 ### 🎯 **What I Do**
 - 🏗️ Design and develop **RESTful APIs** and **microservices**
-- �️ Architect **database schemas** and optimize **queries**
+- 🗄️ Architect **database schemas** and optimize **queries**
 - 🔧 Build **enterprise-level backend systems**
 - 📈 Focus on **performance optimization** and **scalability**
 
@@ -73,17 +45,19 @@ I specialize in crafting robust backend solutions that power modern applications
 
 ### 📊 **Quick Stats**
 - 💼 **Experience:** Backend Development Focus
-- � **Education:** Java Institute for Advanced Technology
+- 🎓 **Education:** Java Institute for Advanced Technology
 - 🎯 **Specialization:** Java, Database Design, API Development
 - ☕ **Fun Fact:** I turn coffee into code and bugs into features!
 
-### � **Get In Touch**
+### 📬 **Get In Touch**
 📧 **pasinduogdev@gmail.com**
 💬 **Always open to discussing tech and opportunities**
 
 </td>
 </tr>
 </table>
+
+<br clear="right"/>
 
 ---
 
@@ -133,45 +107,6 @@ I specialize in crafting robust backend solutions that power modern applications
 
 ---
 
-## 🎯 Professional Overview
-
-<div align="center">
-
-```java
-public class PasinduMadhuwantha implements BackendDeveloper {
-    
-    private final String currentRole = "Backend Developer & System Architect";
-    private final String[] coreSkills = {"Java", "MySQL", "PHP", "JavaScript"};
-    private final String[] architecture = {"RESTful APIs", "MVC Pattern", "Database Design"};
-    
-    private LearningPath currentLearning = new LearningPath()
-        .framework("Spring Boot", "Hibernate", "JPA")
-        .stack("MERN Stack", "Modern JavaScript")
-        .concepts("Microservices", "System Design", "Performance Optimization");
-    
-    private Expertise[] askMeAbout = {
-        new Expertise("Backend Development", 95),
-        new Expertise("Database Architecture", 90),
-        new Expertise("API Design", 85),
-        new Expertise("System Integration", 80)
-    };
-    
-    @Override
-    public String getDailyMotivation() {
-        return "Building scalable solutions, one commit at a time! ☕";
-    }
-    
-    @Override
-    public boolean isOpenForOpportunities() {
-        return true; // Always learning and growing!
-    }
-}
-```
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -194,12 +129,12 @@ public class PasinduMadhuwantha implements BackendDeveloper {
 
 ---
 
-## � Professional Experience
+## 💼 Professional Experience
 
 <div align="center">
 
 ### 🎓 **Education & Certifications**
-**Java Institute for Advanced Technology** | Full-Stack Development Program
+**Institute of Computer Engineering Technology (iCET)** | Full-Stack Development Program (iCD)
 <br>*Specializing in Backend Development & System Architecture*
 
 ### 🏆 **Core Competencies**
@@ -238,19 +173,32 @@ public class PasinduMadhuwantha implements BackendDeveloper {
 
 ---
 
-## �📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PasinduOG&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PasinduOG&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PasinduOG&theme=tokyonight&hide_border=true" />
-</div>
+<table>
+<tr>
+<td align="center">
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=PasinduOG&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&custom_title=GitHub%20Statistics"/>
+</td>
+<td align="center">
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PasinduOG&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Most%20Used%20Languages"/>
+</td>
+</tr>
+</table>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PasinduOG&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PasinduOG&theme=tokyonight&hide_border=true&stroke=70a5fd&background=1a1b27&ring=bf7af7&fire=70a5fd&currStreakLabel=70a5fd" />
+</td>
+<td align="center" width="50%">
+<img src="https://github-profile-trophy.vercel.app/?username=PasinduOG&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=3" />
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
@@ -314,7 +262,7 @@ public class PasinduMadhuwantha implements BackendDeveloper {
 
 ---
 
-## � Profile Insights
+## 📊 Profile Insights
 
 <div align="center">
 
