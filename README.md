@@ -277,7 +277,7 @@ DevOps & Deployment Practices
 <br><sub><b>Total Stars</b></sub>
 </td>
 <td align="center">
-<img src="https://komarev.com/ghpvc/?username=PasinduOG&color=0891b2&style=for-the-badge&logo=github" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=PasinduOG&color=0891b2&style=for-the-badge&label=PROFILE+VIEWS&logo=github" alt="Profile Views"/>
 <br><sub><b>Profile Views</b></sub>
 </td>
 </tr>
@@ -312,12 +312,12 @@ I'm always interested in discussing **backend development**, **system architectu
 
 <div align="center">
   
-### 🐍 Contribution Snake
+### 🎮 Contribution Game
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PasinduOG/PasinduOG/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PasinduOG/PasinduOG/output/pacman-contribution-graph.svg">
-  <img alt="Snake animation eating my contributions" src="https://raw.githubusercontent.com/PasinduOG/PasinduOG/output/pacman-contribution-graph-dark.svg" width="100%"/>
+  <img alt="Pacman game eating my contributions" src="https://raw.githubusercontent.com/PasinduOG/PasinduOG/output/pacman-contribution-graph-dark.svg" width="100%"/>
 </picture>
 
 </div>
