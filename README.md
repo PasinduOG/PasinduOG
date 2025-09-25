@@ -27,16 +27,16 @@
 I specialize in crafting robust backend solutions that power modern applications. With expertise in **Java ecosystem** and expanding knowledge in **microservices architecture**, I'm committed to writing clean, maintainable code that scales.
 
 ### 🎯 **What I Do**
-- 🏗️ Design and develop **RESTful APIs** and **microservices**
-- 🗄️ Architect **database schemas** and optimize **queries**
-- 🔧 Build **enterprise-level backend systems**
-- 📈 Focus on **performance optimization** and **scalability**
+🏗️ Design and develop **RESTful APIs** and **microservices**  
+🗄️ Architect **database schemas** and optimize **queries**  
+🔧 Build **enterprise-level backend systems**  
+📈 Focus on **performance optimization** and **scalability**
 
 ### 🌱 **Current Learning Path**
-- **Advanced Java:** Spring Boot, Hibernate, JPA
-- **Full-Stack:** MERN Stack, Modern JavaScript
-- **Architecture:** Microservices, System Design Patterns
-- **DevOps:** CI/CD, Containerization
+**Advanced Java:** Spring Boot, Hibernate, JPA  
+**Full-Stack:** MERN Stack, Modern JavaScript  
+**Architecture:** Microservices, System Design Patterns  
+**DevOps:** CI/CD, Containerization
 
 </td>
 <td width="40%" valign="top">
@@ -44,10 +44,10 @@ I specialize in crafting robust backend solutions that power modern applications
 <img align="center" alt="coding" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%">
 
 ### 📊 **Quick Stats**
-- 💼 **Experience:** Backend Development Focus
-- 🎓 **Education:** Java Institute for Advanced Technology
-- 🎯 **Specialization:** Java, Database Design, API Development
-- ☕ **Fun Fact:** I turn coffee into code and bugs into features!
+💼 **Experience:** Backend Development Focus  
+🎓 **Education:** Java Institute for Advanced Technology  
+🎯 **Specialization:** Java, Database Design, API Development  
+☕ **Fun Fact:** I turn coffee into code and bugs into features!
 
 ### 📬 **Get In Touch**
 📧 **pasinduogdev@gmail.com**
@@ -71,22 +71,22 @@ I specialize in crafting robust backend solutions that power modern applications
 
 ### 💪 **Core Expertise**
 <img src="https://skillicons.dev/icons?i=java,mysql,php" alt="Core Skills" />
-<br><sub>**Production Ready**</sub>
+<br><sub>Production Ready</sub>
 
 ### 🎨 **Frontend Foundation**
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" alt="Frontend" />
-<br><sub>**UI/UX Basics**</sub>
+<br><sub>UI/UX Basics</sub>
 
 </td>
 <td align="center" width="50%">
 
 ### 🌱 **Learning Path**
 <img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs,react" alt="Learning" />
-<br><sub>**Expanding Horizons**</sub>
+<br><sub>Expanding Horizons</sub>
 
 ### 🔧 **Development Tools**
 <img src="https://skillicons.dev/icons?i=idea,vscode,git,github" alt="Tools" />
-<br><sub>**Daily Workflow**</sub>
+<br><sub>Daily Workflow</sub>
 
 </td>
 </tr>
@@ -141,22 +141,22 @@ I specialize in crafting robust backend solutions that power modern applications
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80"><br>
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80"><br>
 <b>Backend Development</b><br>
 <sub>Java, PHP, API Design</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80"><br>
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80"><br>
 <b>Database Architecture</b><br>
 <sub>MySQL, Design & Optimization</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"><br>
+<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="80"><br>
 <b>System Integration</b><br>
 <sub>RESTful APIs, MVC Pattern</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80"><br>
+<img src="https://user-images.githubusercontent.com/74038190/212257456-4d8d264c-7e78-4963-a67c-4cc90de3a76e.gif" width="80"><br>
 <b>Code Quality</b><br>
 <sub>Clean Code, Best Practices</sub>
 </td>
@@ -164,10 +164,10 @@ I specialize in crafting robust backend solutions that power modern applications
 </table>
 
 ### 🚀 **Development Focus**
-- **🎯 Specialization:** Backend Systems, Database Design, API Development
-- **📚 Current Learning:** Spring Boot, Microservices, MERN Stack
-- **💡 Passion:** Building scalable, maintainable solutions
-- **🔧 Approach:** Clean code, performance optimization, user-centric design
+🎯 **Specialization:** Backend Systems, Database Design, API Development  
+📚 **Current Learning:** Spring Boot, Microservices, MERN Stack  
+💡 **Passion:** Building scalable, maintainable solutions  
+🔧 **Approach:** Clean code, performance optimization, user-centric design
 
 </div>
 
@@ -221,30 +221,30 @@ I specialize in crafting robust backend solutions that power modern applications
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 <h3>🚀 Current Goals</h3>
 <p>
-• Master Spring Boot & Microservices<br>
-• Build production-ready applications<br>
-• Contribute to open-source projects<br>
-• Advance system architecture skills
+Master Spring Boot & Microservices<br>
+Build production-ready applications<br>
+Contribute to open-source projects<br>
+Advance system architecture skills
 </p>
 </td>
 <td align="center" width="33%">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100">
 <h3>🏆 Achievements</h3>
 <p>
-• Strong foundation in Java & MySQL<br>
-• Database design & optimization<br>
-• RESTful API development<br>
-• Clean code practices
+Strong foundation in Java & MySQL<br>
+Database design & optimization<br>
+RESTful API development<br>
+Clean code practices
 </p>
 </td>
 <td align="center" width="33%">
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100">
 <h3>📚 Learning Journey</h3>
 <p>
-• Full-Stack Development Program<br>
-• Modern JavaScript & Node.js<br>
-• React & Frontend Technologies<br>
-• DevOps & Deployment Practices
+Full-Stack Development Program<br>
+Modern JavaScript & Node.js<br>
+React & Frontend Technologies<br>
+DevOps & Deployment Practices
 </p>
 </td>
 </tr>
@@ -297,9 +297,9 @@ I specialize in crafting robust backend solutions that power modern applications
 I'm always interested in discussing **backend development**, **system architecture**, and **collaborative projects**.
 
 ### 🎯 **Looking to Connect?**
-- 💬 **Technical Discussions:** Backend development, database design, API architecture
-- 🤝 **Collaboration:** Open source projects, learning partnerships
-- 💼 **Professional Opportunities:** Backend developer positions, freelance projects
+💬 **Technical Discussions:** Backend development, database design, API architecture  
+🤝 **Collaboration:** Open source projects, learning partnerships  
+💼 **Professional Opportunities:** Backend developer positions, freelance projects
 
 ### ☕ **Support My Journey**
 <a href="https://buymeacoffee.com/pasinduogdev" target="_blank">
