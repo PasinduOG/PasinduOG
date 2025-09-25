@@ -73,7 +73,7 @@ I specialize in crafting robust backend solutions that power modern applications
 <td align="center" width="50%">
 
 ### 💪 **Core Expertise**
-<img src="https://skillicons.dev/icons?i=java,mysql,php" alt="Core Skills" />
+<img src="https://skillicons.dev/icons?i=java,mysql" alt="Core Skills" />
 <br><sub>Production Ready</sub>
 
 ### 🎨 **Frontend Foundation**
@@ -99,7 +99,7 @@ I specialize in crafting robust backend solutions that power modern applications
 
 <table>
 <tr>
-<td align="center"><strong>Backend</strong><br>Java, PHP, MySQL</td>
+<td align="center"><strong>Backend</strong><br>Java, MySQL</td>
 <td align="center"><strong>Frontend</strong><br>HTML, CSS, JavaScript</td>
 <td align="center"><strong>Learning</strong><br>Spring Boot, Node.js, React</td>
 <td align="center"><strong>Tools</strong><br>IntelliJ IDEA, VS Code, Git</td>
