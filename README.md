@@ -27,16 +27,16 @@
 I specialize in crafting robust backend solutions that power modern applications. With expertise in **Java ecosystem** and expanding knowledge in **microservices architecture**, I'm committed to writing clean, maintainable code that scales.
 
 ### 🎯 **What I Do**
-🏗️ Design and develop **RESTful APIs** and **microservices**  
-🗄️ Architect **database schemas** and optimize **queries**  
-🔧 Build **enterprise-level backend systems**  
-📈 Focus on **performance optimization** and **scalability**
+- 🏗️ Design and develop **RESTful APIs** and **microservices**  
+- 🗄️ Architect **database schemas** and optimize **queries**  
+- 🔧 Build **enterprise-level backend systems**  
+- 📈 Focus on **performance optimization** and **scalability**
 
 ### 🌱 **Current Learning Path**
-**Advanced Java:** Spring Boot, Hibernate, JPA  
-**Full-Stack:** MERN Stack, Modern JavaScript  
-**Architecture:** Microservices, System Design Patterns  
-**DevOps:** CI/CD, Containerization
+- **Advanced Java:** Spring Boot, Hibernate, JPA  
+- **Full-Stack:** MERN Stack, Modern JavaScript  
+- **Architecture:** Microservices, System Design Patterns  
+- **DevOps:** CI/CD, Containerization
 
 </td>
 <td width="40%" valign="top">
@@ -44,14 +44,14 @@ I specialize in crafting robust backend solutions that power modern applications
 <img align="center" alt="coding" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%">
 
 ### 📊 **Quick Stats**
-💼 **Experience:** Backend Development Focus  
-🎓 **Education:** Java Institute for Advanced Technology  
-🎯 **Specialization:** Java, Database Design, API Development  
-☕ **Fun Fact:** I turn coffee into code and bugs into features!
+- 💼 **Experience:** Backend Development Focus  
+- 🎓 **Education:** Java Institute for Advanced Technology  
+- 🎯 **Specialization:** Java, Database Design, API Development  
+- ☕ **Fun Fact:** I turn coffee into code and bugs into features!
 
 ### 📬 **Get In Touch**
-📧 **pasinduogdev@gmail.com**
-💬 **Always open to discussing tech and opportunities**
+- 📧 **pasinduogdev@gmail.com**  
+- 💬 **Always open to discussing tech and opportunities**
 
 </td>
 </tr>
@@ -141,22 +141,22 @@ I specialize in crafting robust backend solutions that power modern applications
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80"><br>
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80"><br>
 <b>Backend Development</b><br>
 <sub>Java, PHP, API Design</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80"><br>
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80"><br>
 <b>Database Architecture</b><br>
 <sub>MySQL, Design & Optimization</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="80"><br>
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"><br>
 <b>System Integration</b><br>
 <sub>RESTful APIs, MVC Pattern</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257456-4d8d264c-7e78-4963-a67c-4cc90de3a76e.gif" width="80"><br>
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80"><br>
 <b>Code Quality</b><br>
 <sub>Clean Code, Best Practices</sub>
 </td>
