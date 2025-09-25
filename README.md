@@ -1,133 +1,192 @@
-<!-- <table align="center">
-<tr border="none">
-<td width="50%" align="left">
+<div align="center">
 
-<h3 align="center">Hello! 👋 I'm Pasindu Madhuwantha</h3>
-<h6 align="center">A Passionate Backend Developer | Trainee Full-Stack Developer</h6>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hello, I'm Pasindu Madhuwantha
 
-<hr/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Full-Stack+Enthusiast;Problem+Solver;Code+Craftsman;DEV4LIFE" alt="Typing SVG" />
+</p>
 
-- 🌱 I’m currently learning **MERN, Java, Java EE, Hibernate, Spring Boot**
+<img align="right" alt="coding" src="github-pet.gif" width="350" style="margin-left: 20px;">
 
-- 🧑‍🎓 I'm an Undergraduate at **Java Institute for Advanced Technology**
+</div>
 
-- 💬 Ask me about **HTML, JS, PHP, and MySQL**
+---
 
-- 📫 How to reach me **pasinduogdev@gmail.com**
+## 🚀 About Me
 
-- 👨‍💻 **I'm a passionate backend developer**
+<img align="right" alt="coding" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350">
 
-- ⚡ Fun fact: **I don't like designs**
+I'm a **passionate backend developer** with a love for crafting robust, scalable solutions. Currently expanding my expertise in **microservices architecture** and modern development practices.
 
-</td> -->
+- 🔭 **Currently Working On:** Advanced backend systems and microservices
+- 🌱 **Learning:** MERN Stack, Java EE, Spring Boot, Hibernate
+- 💡 **Passionate About:** Backend development, system architecture, and clean code
+- 🎯 **Goal:** Building enterprise-level applications that make a difference
+- ⚡ **Fun Fact:** I prefer backend logic over frontend design any day!
+- 📧 **Contact:** pasinduogdev@gmail.com
 
-<!-- <td width="50%" align="center">
-<!--   <img align="right" alt="coding" src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzkyMzM2NjAsIm5iZiI6MTczOTIzMzM2MCwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjExVDAwMjI0MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY0OWM3YzIzOThlMmIyZWI2ZGJlN2EyZTk4NDVmZmE2OGRiY2FlN2M4NGU5NWE4NDM0MmE5MTc4MjFiZGI4NzImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.5lANW5iUS0Cj9cls8Yk9ROEJUhYR460S3bFRDfeGrQQ" width="100%">
-  <img align="right" alt="coding" src="github-pet.gif">
-</td>
-  
-</tr>
+<br clear="right"/>
 
-</table> -->
+---
 
-<h3>Hello! 👋 I'm Pasindu Madhuwantha - DEV4L!FE</h3>
-<hr/>
+## 🛠️ Tech Stack
 
-- 🌱 I’m currently learning **New Technologies and Microservices**
+### 💪 **Advanced**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,mysql,php,html,css" />
+</p>
 
-<!-- 🧑‍🎓 I'm an Undergraduate at **Java Institute for Advanced Technology** -->
+### 🔥 **Intermediate**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,bootstrap,git,github,vscode" />
+</p>
 
-<!-- - 💬 Ask me about **HTML, JS, PHP, Node.js and MySQL** -->
+### 🌱 **Currently Learning**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs,react,mongodb" />
+</p>
 
-- 📫 How to reach me **pasinduogdev@gmail.com**
+### 🔧 **Tools & Environment**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=idea,vscode,git,github,mysql" />
+</p>
 
-- 👨‍💻 **I'm a passionate backend developer**
+---
 
-- ⚡ Fun fact: **I hate frondends**
+## 🎯 Current Focus
 
-<hr/>
+```javascript
+const pasindu = {
+    currentRole: "Backend Developer",
+    code: ["Java", "JavaScript", "PHP", "HTML/CSS"],
+    architecture: ["Microservices", "MVC", "RESTful APIs"],
+    currentlyLearning: {
+        framework: ["Spring Boot", "Hibernate"],
+        stack: ["MERN Stack"],
+        concepts: ["Microservices Architecture", "System Design"]
+    },
+    askMeAbout: ["Backend Development", "Database Design", "System Architecture"],
+    technologies: {
+        backend: ["Java", "Node.js", "PHP"],
+        database: ["MySQL", "MongoDB"],
+        frontend: ["HTML", "CSS", "JavaScript", "Bootstrap"],
+        tools: ["Git", "VS Code", "IntelliJ IDEA"]
+    },
+    funFact: "I turn coffee into code and bugs into features! ☕"
+};
+```
 
-![GitHub Followers](https://img.shields.io/github/followers/PasinduOG?logo=github&style=for-the-badge&color=0891b2&labelColor=000000)
-[![GitHub Following](https://img.shields.io/badge/Following-Check%20Profile-0891b2?style=for-the-badge&logo=github&labelColor=000000)](https://github.com/PasinduOG?tab=following)
-[![GitHub Repositories](https://img.shields.io/badge/%20Repositories-Check%20Profile-0891b2?style=for-the-badge&logo=github&labelColor=000000)](https://github.com/PasinduOG?tab=repositories)
-    
-<hr>
+---
 
-### 🧑‍💻 My Logo:
-  <img align="center" alt="pasinduogdev" src="pasinduogdev.png" width="10%"><img align="center" alt="pasinduogdev" src="DEV4LIFE.jpg" width="10%">
-  <!--<img align="center" alt="pasinduogdev" src="DEV4LIFE.jpg" width="10%">-->
+## 🌐 Connect With Me
 
-
-## 🌐 Socials:
-<p align="left"> 
-  <a href="https://discord.com/users/pasinduogdev" target="_blank" rel="noreferrer">
-    <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> 
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> 
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> 
-    </picture> 
-  </a> 
-  <a href="https://www.facebook.com/pasindu.og.dev" target="_blank" rel="noreferrer"> 
-    <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> 
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> 
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> 
-    </picture> 
+<p align="center">
+  <a href="https://lk.linkedin.com/in/pasinduog" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.youtube.com/@pasindu_og_dev" target="_blank" rel="noreferrer"> 
-    <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> 
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> 
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> 
-    </picture> 
+  <a href="https://discord.com/users/pasinduogdev" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <a href="https://lk.linkedin.com/in/pasinduog" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-    </picture>
+  <a href="https://www.youtube.com/@pasindu_og_dev" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://www.facebook.com/pasindu.og.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="mailto:pasinduogdev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
-<hr/>
+---
 
-## 💻 Languages & Tools:
+## 📊 GitHub Analytics
 
-### 🌱 Currently self learning:
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,java,idea,html,css,js,bootstrap,mysql)](https://skillicons.dev)
-
-<!-- ### 🌱 Currently self learning:
-[![My Skills](https://skillicons.dev/icons?i=unity,next,mongo,firebase,java,python,laravel,spring&perline=12)](https://skillicons.dev) -->
-
-<hr/>
-
-### 💰 You can help me by Donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/pasinduogdev)
-
-
-## 📊 GitHub Stats:
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=PasinduOG&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PasinduOG&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=PasinduOG&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PasinduOG&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PasinduOG&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PasinduOG&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
-<a href="https://github.com/PasinduOG" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PasinduOG&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PasinduOG&theme=tokyonight&hide_border=true" />
+</div>
 
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PasinduOG&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+</div>
 
-<!-- ### 🎵 Recently played on Spotify
-<div align="left">
-  <a href="https://open.spotify.com/user/dzicl3p76u7g1yh3wc4har5h8">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=dzicl3p76u7g1yh3wc4har5h8&count=5" alt="Spotify recently played"  />
+---
+
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PasinduOG&custom_title=Pasindu's%20GitHub%20Activity%20Graph&bg_color=1a1b27&color=70a5fd&line=bf7af7&point=38bdae&area=true&hide_border=true" />
+
+---
+
+## 💼 Professional Highlights
+
+<div align="center">
+
+### 🎓 **Education**
+**Java Institute for Advanced Technology** - Full-Stack Development Program
+
+### 🏆 **Achievements**
+- 🌟 Passionate about building scalable backend systems
+- 🔧 Experienced in database design and optimization  
+- 📚 Continuous learner in modern development practices
+- 🎯 Focus on clean, maintainable code architecture
+
+</div>
+
+---
+
+## 💭 Daily Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+---
+
+## 💰 Support My Work
+
+<div align="center">
+  <a href="https://buymeacoffee.com/pasinduogdev" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
   </a>
-</div> -->
+</div>
 
+---
+
+## 📊 Profile Stats
+
+<div align="center">
+  
+![GitHub Followers](https://img.shields.io/github/followers/PasinduOG?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)
+![GitHub Stars](https://img.shields.io/github/stars/PasinduOG?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)
+![Profile Views](https://komarev.com/ghpvc/?username=PasinduOG&color=0891b2&style=for-the-badge)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 🐍 Snake eating my contributions
+  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PasinduOG/PasinduOG/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PasinduOG/PasinduOG/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PasinduOG/PasinduOG/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PasinduOG/PasinduOG/output/pacman-contribution-graph-dark.svg">
 </picture>
+
+</div>
+
+---
+
+<div align="center">
+  <h3>💭 "Code is poetry written in logic" 💭</h3>
+  <p><em>Building the future, one commit at a time...</em></p>
+  
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+</div>
