@@ -277,7 +277,7 @@ DevOps & Deployment Practices
 <br><sub><b>Total Stars</b></sub>
 </td>
 <td align="center">
-<img src="https://komarev.com/ghpvc/?username=PasinduOG&color=0891b2&style=for-the-badge&label=PROFILE+VIEWS&logo=github" alt="Profile Views"/>
+<img src="https://img.shields.io/badge/Profile%20Views-19-0891b2?style=for-the-badge&logo=github&labelColor=1c1917" alt="Profile Views"/>
 <br><sub><b>Profile Views</b></sub>
 </td>
 </tr>
