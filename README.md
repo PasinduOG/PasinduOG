@@ -1,78 +1,174 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hello, I'm Pasindu Madhuwantha
+<img align="right" alt="coding" src="github-pet.gif" width="400" style="margin: 0 0 20px 20px;">
+
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/> Hey th## 📊 GitHub Analytics
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=PasinduOG&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&custom_title=GitHub%20Statistics"/>
+</td>
+<td align="center">
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PasinduOG&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Most%20Used%20Languages"/>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PasinduOG&theme=tokyonight&hide_border=true&stroke=70a5fd&background=1a1b27&ring=bf7af7&fire=70a5fd&currStreakLabel=70a5fd" />
+</td>
+<td align="center" width="50%">
+<img src="https://github-profile-trophy.vercel.app/?username=PasinduOG&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=3" />
+</td>
+</tr>
+</table>
+
+</div>indu Madhuwantha**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Full-Stack+Enthusiast;Problem+Solver;Code+Craftsman;DEV4LIFE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&height=60&lines=🚀+Backend+Developer;💻+Full-Stack+Enthusiast;🔧+Problem+Solver;⚡+Code+Craftsman;🎯+System+Architect;💡+DEV4LIFE" alt="Typing SVG" />
 </p>
 
-<img align="right" alt="coding" src="github-pet.gif" width="350" style="margin-left: 20px;">
+<p align="center">
+  <em>Transforming ideas into scalable backend solutions</em>
+</p>
+
+<br clear="right"/>
 
 </div>
 
 ---
 
+<table>
+<tr>
+<td width="60%" valign="top">
+
 ## 🚀 About Me
 
-I'm a **passionate backend developer** with a love for crafting robust, scalable solutions. Currently expanding my expertise in **microservices architecture** and modern development practices.
+> **Backend Developer & System Architect** passionate about building **scalable, high-performance applications**
 
-- 🔭 **Currently Working On:** Advanced backend systems and microservices
-- 🌱 **Learning:** MERN Stack, Java EE, Spring Boot, Hibernate
-- 💡 **Passionate About:** Backend development, system architecture, and clean code
-- 🎯 **Goal:** Building enterprise-level applications that make a difference
-- ⚡ **Fun Fact:** I prefer backend logic over frontend design any day!
-- 📧 **Contact:** pasinduogdev@gmail.com
+I specialize in crafting robust backend solutions that power modern applications. With expertise in **Java ecosystem** and expanding knowledge in **microservices architecture**, I'm committed to writing clean, maintainable code that scales.
 
-<br clear="right"/>
+### 🎯 **What I Do**
+- 🏗️ Design and develop **RESTful APIs** and **microservices**
+- �️ Architect **database schemas** and optimize **queries**
+- 🔧 Build **enterprise-level backend systems**
+- 📈 Focus on **performance optimization** and **scalability**
+
+### 🌱 **Current Learning Path**
+- **Advanced Java:** Spring Boot, Hibernate, JPA
+- **Full-Stack:** MERN Stack, Modern JavaScript
+- **Architecture:** Microservices, System Design Patterns
+- **DevOps:** CI/CD, Containerization
+
+</td>
+<td width="40%" valign="top">
+
+<img align="center" alt="coding" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%">
+
+### 📊 **Quick Stats**
+- 💼 **Experience:** Backend Development Focus
+- � **Education:** Java Institute for Advanced Technology
+- 🎯 **Specialization:** Java, Database Design, API Development
+- ☕ **Fun Fact:** I turn coffee into code and bugs into features!
+
+### � **Get In Touch**
+📧 **pasinduogdev@gmail.com**
+💬 **Always open to discussing tech and opportunities**
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technology Stack
 
-### 💪 **Advanced**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,mysql,php,html,css" />
-</p>
+<div align="center">
 
-### 🔥 **Intermediate**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,bootstrap,git,github,vscode" />
-</p>
+<table>
+<tr>
+<td align="center" width="50%">
 
-### 🌱 **Currently Learning**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs,react,mongodb" />
-</p>
+### 💪 **Core Expertise**
+<img src="https://skillicons.dev/icons?i=java,mysql,php" alt="Core Skills" />
+<br><sub>**Production Ready**</sub>
 
-### 🔧 **Tools & Environment**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=idea,vscode,git,github,mysql" />
-</p>
+### 🎨 **Frontend Foundation**
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" alt="Frontend" />
+<br><sub>**UI/UX Basics**</sub>
+
+</td>
+<td align="center" width="50%">
+
+### 🌱 **Learning Path**
+<img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs,react" alt="Learning" />
+<br><sub>**Expanding Horizons**</sub>
+
+### 🔧 **Development Tools**
+<img src="https://skillicons.dev/icons?i=idea,vscode,git,github" alt="Tools" />
+<br><sub>**Daily Workflow**</sub>
+
+</td>
+</tr>
+</table>
+
+### 🎯 **Development Focus**
+
+<table>
+<tr>
+<td align="center"><strong>Backend</strong><br>Java, PHP, MySQL</td>
+<td align="center"><strong>Frontend</strong><br>HTML, CSS, JavaScript</td>
+<td align="center"><strong>Learning</strong><br>Spring Boot, Node.js, React</td>
+<td align="center"><strong>Tools</strong><br>IntelliJ IDEA, VS Code, Git</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Professional Overview
 
-```javascript
-const pasindu = {
-    currentRole: "Backend Developer",
-    code: ["Java", "JavaScript", "PHP", "HTML/CSS"],
-    architecture: ["Microservices", "MVC", "RESTful APIs"],
-    currentlyLearning: {
-        framework: ["Spring Boot", "Hibernate"],
-        stack: ["MERN Stack"],
-        concepts: ["Microservices Architecture", "System Design"]
-    },
-    askMeAbout: ["Backend Development", "Database Design", "System Architecture"],
-    technologies: {
-        backend: ["Java", "Node.js", "PHP"],
-        database: ["MySQL", "MongoDB"],
-        frontend: ["HTML", "CSS", "JavaScript", "Bootstrap"],
-        tools: ["Git", "VS Code", "IntelliJ IDEA"]
-    },
-    funFact: "I turn coffee into code and bugs into features! ☕"
-};
+<div align="center">
+
+```java
+public class PasinduMadhuwantha implements BackendDeveloper {
+    
+    private final String currentRole = "Backend Developer & System Architect";
+    private final String[] coreSkills = {"Java", "MySQL", "PHP", "JavaScript"};
+    private final String[] architecture = {"RESTful APIs", "MVC Pattern", "Database Design"};
+    
+    private LearningPath currentLearning = new LearningPath()
+        .framework("Spring Boot", "Hibernate", "JPA")
+        .stack("MERN Stack", "Modern JavaScript")
+        .concepts("Microservices", "System Design", "Performance Optimization");
+    
+    private Expertise[] askMeAbout = {
+        new Expertise("Backend Development", 95),
+        new Expertise("Database Architecture", 90),
+        new Expertise("API Design", 85),
+        new Expertise("System Integration", 80)
+    };
+    
+    @Override
+    public String getDailyMotivation() {
+        return "Building scalable solutions, one commit at a time! ☕";
+    }
+    
+    @Override
+    public boolean isOpenForOpportunities() {
+        return true; // Always learning and growing!
+    }
+}
 ```
+
+</div>
 
 ---
 
@@ -98,7 +194,51 @@ const pasindu = {
 
 ---
 
-## 📊 GitHub Analytics
+## � Professional Experience
+
+<div align="center">
+
+### 🎓 **Education & Certifications**
+**Java Institute for Advanced Technology** | Full-Stack Development Program
+<br>*Specializing in Backend Development & System Architecture*
+
+### 🏆 **Core Competencies**
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80"><br>
+<b>Backend Development</b><br>
+<sub>Java, PHP, API Design</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80"><br>
+<b>Database Architecture</b><br>
+<sub>MySQL, Design & Optimization</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"><br>
+<b>System Integration</b><br>
+<sub>RESTful APIs, MVC Pattern</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80"><br>
+<b>Code Quality</b><br>
+<sub>Clean Code, Best Practices</sub>
+</td>
+</tr>
+</table>
+
+### 🚀 **Development Focus**
+- **🎯 Specialization:** Backend Systems, Database Design, API Development
+- **📚 Current Learning:** Spring Boot, Microservices, MERN Stack
+- **💡 Passion:** Building scalable, maintainable solutions
+- **🔧 Approach:** Clean code, performance optimization, user-centric design
+
+</div>
+
+---
+
+## �📊 GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PasinduOG&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
@@ -115,30 +255,58 @@ const pasindu = {
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Development Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PasinduOG&custom_title=Pasindu's%20GitHub%20Activity%20Graph&bg_color=1a1b27&color=70a5fd&line=bf7af7&point=38bdae&area=true&hide_border=true" />
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PasinduOG&custom_title=Pasindu's%20Contribution%20Activity&bg_color=1a1b27&color=70a5fd&line=bf7af7&point=38bdae&area=true&hide_border=true" />
+</div>
 
 ---
 
-## 💼 Professional Highlights
+## 🎯 Professional Goals & Achievements
 
 <div align="center">
 
-### 🎓 **Education**
-**Java Institute for Advanced Technology** - Full-Stack Development Program
-
-### 🏆 **Achievements**
-- 🌟 Passionate about building scalable backend systems
-- 🔧 Experienced in database design and optimization  
-- 📚 Continuous learner in modern development practices
-- 🎯 Focus on clean, maintainable code architecture
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+<h3>🚀 Current Goals</h3>
+<p>
+• Master Spring Boot & Microservices<br>
+• Build production-ready applications<br>
+• Contribute to open-source projects<br>
+• Advance system architecture skills
+</p>
+</td>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100">
+<h3>🏆 Achievements</h3>
+<p>
+• Strong foundation in Java & MySQL<br>
+• Database design & optimization<br>
+• RESTful API development<br>
+• Clean code practices
+</p>
+</td>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100">
+<h3>📚 Learning Journey</h3>
+<p>
+• Full-Stack Development Program<br>
+• Modern JavaScript & Node.js<br>
+• React & Frontend Technologies<br>
+• DevOps & Deployment Practices
+</p>
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 💭 Daily Dev Quote
+## 💭 Daily Inspiration
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
@@ -146,23 +314,49 @@ const pasindu = {
 
 ---
 
-## 💰 Support My Work
+## � Profile Insights
 
 <div align="center">
-  <a href="https://buymeacoffee.com/pasinduogdev" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
-  </a>
+
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/github/followers/PasinduOG?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="GitHub Followers"/>
+<br><sub><b>Followers</b></sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/github/stars/PasinduOG?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="GitHub Stars"/>
+<br><sub><b>Total Stars</b></sub>
+</td>
+<td align="center">
+<img src="https://komarev.com/ghpvc/?username=PasinduOG&color=0891b2&style=for-the-badge" alt="Profile Views"/>
+<br><sub><b>Profile Views</b></sub>
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
 
-## 📊 Profile Stats
+## 🤝 Let's Connect & Collaborate
 
 <div align="center">
-  
-![GitHub Followers](https://img.shields.io/github/followers/PasinduOG?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)
-![GitHub Stars](https://img.shields.io/github/stars/PasinduOG?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)
-![Profile Views](https://komarev.com/ghpvc/?username=PasinduOG&color=0891b2&style=for-the-badge)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="200">
+
+### 💼 **Open for Opportunities**
+I'm always interested in discussing **backend development**, **system architecture**, and **collaborative projects**.
+
+### 🎯 **Looking to Connect?**
+- 💬 **Technical Discussions:** Backend development, database design, API architecture
+- 🤝 **Collaboration:** Open source projects, learning partnerships
+- 💼 **Professional Opportunities:** Backend developer positions, freelance projects
+
+### ☕ **Support My Journey**
+<a href="https://buymeacoffee.com/pasinduogdev" target="_blank">
+  <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
+</a>
 
 </div>
 
@@ -170,12 +364,12 @@ const pasindu = {
 
 <div align="center">
   
-### 🐍 Snake eating my contributions
-  
+### 🐍 Contribution Snake
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PasinduOG/PasinduOG/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PasinduOG/PasinduOG/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PasinduOG/PasinduOG/output/pacman-contribution-graph-dark.svg">
+  <img alt="Snake animation eating my contributions" src="https://raw.githubusercontent.com/PasinduOG/PasinduOG/output/pacman-contribution-graph-dark.svg" width="100%"/>
 </picture>
 
 </div>
@@ -183,8 +377,15 @@ const pasindu = {
 ---
 
 <div align="center">
-  <h3>💭 "Code is poetry written in logic" 💭</h3>
-  <p><em>Building the future, one commit at a time...</em></p>
-  
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
+
+### 💭 *"Great software is built by great teams, but it starts with passionate individuals"*
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+
+**Thanks for visiting my profile! Let's build something amazing together! 🚀**
+
+<sub>⭐ **Star my repositories if you find them helpful!** ⭐</sub>
+
 </div>
