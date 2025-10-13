@@ -48,7 +48,7 @@ I specialize in crafting robust backend solutions that power modern applications
 
 ### 📊 **Quick Stats**
 - 💼 **Experience:** Backend Development Focus  
-- 🎓 **Education:** Java Institute for Advanced Technology  
+- 🎓 **Education:** Institute of Computer Engineering Technology (iCET)  
 - 🎯 **Specialization:** Java, Database Design, API Development  
 - ☕ **Fun Fact:** I turn coffee into code and bugs into features!
 
