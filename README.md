@@ -39,11 +39,11 @@ My goal is to understand **how systems work under the hood** and gradually move 
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,nodejs,mysql,mongodb,vscode,idea,git,github&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,ts,nodejs,mysql,mongodb,vscode,idea,git,github&perline=20)](https://skillicons.dev)
 
 | **Area** | **Technologies / Tools** |
 |-----------|--------------------------|
-| 💻 **Languages** | Java, JavaScript |
+| 💻 **Languages** | Java, JavaScript, TypeScript |
 | ⚙️ **Backend / Runtime** | Node.js (Basics) |
 | 🗄️ **Database** | MySQL, MongoDB |
 | 🧰 **Tools** | IntelliJ IDEA, VS Code, Git, GitHub |
