@@ -2,10 +2,10 @@
 
 # 👋 Hey there, I'm **Pasindu OG**
 
-<p align="center">
+<!-- <p align="center">
   <img src="assets/img/pasinduogdev.png" alt="PasinduOG Dev Logo" width="80"/> 
   <img src="assets/img/DEV4LIFE.jpg" alt="DEV4LIFE Logo" width="80" style="margin-left: 20px;"/>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=🚀+Trainee+Software+Engineer;💡+Learning+Java+and+Backend+Fundamentals;⚙️+Exploring+Data+Structures+and+Databases;🌱+Growing+One+Project+at+a+Time" alt="Typing SVG" />
