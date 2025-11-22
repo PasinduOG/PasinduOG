@@ -28,7 +28,7 @@ My goal is to understand **how systems work under the hood** and gradually move 
 - ⚙️ **Concepts:** Encapsulation, Inheritance, Stack, Queue, List  
 - 🧠 **Tools:** Git & GitHub (Version Control Mastery)
 
-### 🌱 **What I'm Learning next**
+### 🌱 **What I'm Learning Next**
 - 🧩 **Advanced Backend:** Node.js (Fundamentals), REST Basics  
 - 🗄️ **Advanced Databases:** Normalization, PosgreSQL and, MongoDB
 - ⚙️ **Advanced Concepts:** Advanced Data Structures and Algorithms
