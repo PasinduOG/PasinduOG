@@ -2,11 +2,6 @@
 
 # 👋 Hey there, I'm **Pasindu OG**
 
-<!-- <p align="center">
-  <img src="assets/img/pasinduogdev.png" alt="PasinduOG Dev Logo" width="80"/> 
-  <img src="assets/img/DEV4LIFE.jpg" alt="DEV4LIFE Logo" width="80" style="margin-left: 20px;"/>
-</p> -->
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=🚀+Trainee+Software+Engineer;💡+Learning+Java+and+Backend+Fundamentals;⚙️+Exploring+Data+Structures+and+Databases;🌱+Growing+One+Project+at+a+Time" alt="Typing SVG" />
 </p>
@@ -26,12 +21,17 @@
 I'm currently on a journey to become a **Skilled Software Engineer**, developing strong fundamentals in **Java**, **Databases**, and **Backend Concepts**.  
 My goal is to understand **how systems work under the hood** and gradually move into **backend and full-stack development**.
 
-### 🎯 **What I'm Learning**
-- 💻 **Programming:** Java (Core + OOP + Data Structures)
-- 🧩 **Backend:** Node.js (Fundamentals), REST Basics  
-- 🗄️ **Databases:** MySQL, ER Diagrams, MongoDB (Beginner)
+### 🎯 **What I'm Learned**
+- 💻 **Programming fundementals:** Java (Core + OOP + Data Structures)
+- 🧩 **Backend:** Core Java business logics development, JavaScript API integrations
+- 🗄️ **Databases:** MySQL, ER Diagrams
 - ⚙️ **Concepts:** Encapsulation, Inheritance, Stack, Queue, List  
 - 🧠 **Tools:** Git & GitHub (Version Control Mastery)
+
+### 🌱 **What I'm Learning next**
+- 🧩 **Advanced Backend:** Node.js (Fundamentals), REST Basics  
+- 🗄️ **Advanced Databases:** Normalization, PosgreSQL and, MongoDB
+- ⚙️ **Advanced Concepts:** Advanced Data Structures and Algorithms
 
 ---
 
@@ -58,7 +58,7 @@ My goal is to understand **how systems work under the hood** and gradually move 
 
 ### 🏫 **Institute of Computer Engineering Technology (iCET)**
 🎓 *Full-Stack Development Program (iCD)*  
-*Focusing on Java Fundamentals, OOP, and Backend Development.*
+*Focusing on Enterprise Appications, SDLC and, Advanced System Development.*
 
 </div>
 
