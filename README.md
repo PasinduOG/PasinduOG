@@ -3,7 +3,7 @@
 # 👋 Hey there, I'm **Pasindu OG**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=🚀+Trainee+Software+Engineer;💡+Learning+Java+and+Backend+Fundamentals;⚙️+Exploring+Data+Structures+and+Databases;🌱+Growing+One+Project+at+a+Time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=🚀+Trainee+Software+Engineer;🌱+Growing+One+Project+at+a+Time;❇️+One+Mind+Many+Code" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@ My goal is to understand **how systems work under the hood** and gradually move 
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,ts,nodejs,mysql,mongodb,vscode,idea,git,github&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,ts,nodejs,mysql,mongodb,vscode,idea,git,github,figma&perline=20)](https://skillicons.dev)
 
 | **Area** | **Technologies / Tools** |
 |-----------|--------------------------|
