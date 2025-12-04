@@ -26,13 +26,13 @@ My goal is to understand **how systems work under the hood** and gradually move 
 ### 🎯 **What I'm Learned**
 - 💻 **Programming fundementals:** Java (Core + OOP + Data Structures)
 - 🧩 **Backend:** Core Java business logics development, JavaScript API integrations
-- 🗄️ **Databases:** MySQL, ER Diagrams
-- ⚙️ **Concepts:** Encapsulation, Inheritance, Stack, Queue, List  
+- 🧩 **Frameworks:** Node.js, Express.js (HTTP requests & RESTAPIs)
+- 🗄️ **Databases:** MySQL, MongoDB (NoSQL), ER Diagrams
+- ⚙️ **Concepts:** OOP, Basic Data Structures (Stack, Queue, List) and Algorithms  
 - 🧠 **Tools:** Git & GitHub (Version Control Mastery)
 
 ### 🌱 **What I'm Learning Next**
-- 🧩 **Advanced Backend:** Node.js (Fundamentals), REST Basics  
-- 🗄️ **Advanced Databases:** Normalization, PosgreSQL and, MongoDB
+- 🗄️ **Advanced Databases:** DB Normalization, and PosgreSQL
 - ⚙️ **Advanced Concepts:** Advanced Data Structures and Algorithms
 
 ---
@@ -41,7 +41,7 @@ My goal is to understand **how systems work under the hood** and gradually move 
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,ts,nodejs,mysql,mongodb,vscode,idea,git,github,figma&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,nodejs,mysql,mongodb,vscode,idea,git,github,figma&perline=20)](https://skillicons.dev)
 
 | **Area** | **Technologies / Tools** |
 |-----------|--------------------------|
@@ -73,7 +73,7 @@ My goal is to understand **how systems work under the hood** and gradually move 
 |---------------|----------------|
 | **Java Mastery** | Strengthening core concepts and OOP principles |
 | **Database Management** | Designing ER diagrams and writing efficient queries |
-| **Backend Basics** | Learning Node.js and REST API development |
+| **Frameworks** | Learning Node.js and REST API development |
 | **Version Control** | Using Git & GitHub effectively for projects |
 | **System Thinking** | Understanding architecture and scalability gradually |
 
