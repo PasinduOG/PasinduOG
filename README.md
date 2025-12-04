@@ -2,7 +2,7 @@
 
 <img src="https://i.ibb.co/Rk9pMhbD/GHDev-2025-12-05-04-58-20.jpg" width="100%" />
 
-# 👋 Hey there, I'm **Pasindu OG**
+# 👋 Hello World, I'm **Pasindu OG**
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=🚀+Trainee+Software+Engineer;🌱+Growing+One+Project+at+a+Time;❇️+One+Mind+Many+Code" alt="Typing SVG" />
