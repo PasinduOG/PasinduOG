@@ -45,7 +45,7 @@ My goal is to understand **how systems work under the hood** and gradually move 
 
 | **Area** | **Technologies / Tools** |
 |-----------|--------------------------|
-| 💻 **Languages** | Java, JavaScript, TypeScript |
+| 💻 **Languages** | Java, JavaScript, and TypeScript (In Progress) |
 | 📱 **UI/UX Designs** | Figma, Wireframe.cc |
 | ⚙️ **Backend / Runtime** | Node.js, Express |
 | 🗄️ **Database** | MySQL, MongoDB |
