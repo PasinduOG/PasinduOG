@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://i.ibb.co/Rk9pMhbD/GHDev-2025-12-05-04-58-20.jpg" width="100%" />
+
 # 👋 Hey there, I'm **Pasindu OG**
 
 <p align="center">
