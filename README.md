@@ -85,10 +85,7 @@ My goal is to understand **how systems work under the hood** and gradually move 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PasinduOG&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PasinduOG&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PasinduOG&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
 
 </div>
 
