@@ -87,19 +87,6 @@ My goal is to understand **how systems work under the hood** and gradually move 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PasinduOG&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
 </div>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PasinduOG&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PasinduOG&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PasinduOG&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=7" alt="GitHub Trophies"/>
-</div>
-
 ---
 
 ## 📈 Contribution Graph
