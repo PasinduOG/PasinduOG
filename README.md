@@ -41,15 +41,17 @@ My goal is to understand **how systems work under the hood** and gradually move 
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,nodejs,mysql,mongodb,vscode,postman,idea,git,github,figma&perline=20)](https://skillicons.dev)
+### 💻 Programming Languages
+[![Programming Languages](https://skillicons.dev/icons?i=java,js&perline=20)](https://skillicons.dev)
 
-| **Area** | **Technologies / Tools** |
-|-----------|--------------------------|
-| 💻 **Languages** | Java, JavaScript, and TypeScript (In Progress) |
-| 📱 **UI/UX Designs** | Figma, Wireframe.cc |
-| ⚙️ **Backend / Runtime** | Node.js, Express |
-| 🗄️ **Database** | MySQL, MongoDB |
-| 🧰 **Tools** | IntelliJ IDEA, VS Code, Postman, Git, GitHub |
+### 🚀 Frameworks
+[![Frameworks](https://skillicons.dev/icons?i=npm,nodejs,express&perline=20)](https://skillicons.dev)
+
+### 🗄️ Databases
+[![Databases](https://skillicons.dev/icons?i=mysql,mongodb&perline=20)](https://skillicons.dev)
+
+### 🧰 Tools
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,idea,webstrom,figma&perline=20)](https://skillicons.dev)
 
 </div>
 
