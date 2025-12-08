@@ -39,7 +39,7 @@ My goal is to understand **how systems work under the hood** and gradually move 
 
 ## ⚡ Tech Stack & Tools
 
-<div align="center">
+<div align="start">
 
 ### 💻 Programming Languages
 [![Programming Languages](https://skillicons.dev/icons?i=java,js&perline=20)](https://skillicons.dev)
