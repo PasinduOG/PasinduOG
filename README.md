@@ -41,7 +41,7 @@ My goal is to understand **how systems work under the hood** and gradually move 
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,nodejs,mysql,mongodb,vscode,idea,git,github,figma&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,nodejs,mysql,mongodb,vscode,postman,idea,git,github,figma&perline=20)](https://skillicons.dev)
 
 | **Area** | **Technologies / Tools** |
 |-----------|--------------------------|
@@ -49,7 +49,7 @@ My goal is to understand **how systems work under the hood** and gradually move 
 | 📱 **UI/UX Designs** | Figma, Wireframe.cc |
 | ⚙️ **Backend / Runtime** | Node.js, Express |
 | 🗄️ **Database** | MySQL, MongoDB |
-| 🧰 **Tools** | IntelliJ IDEA, VS Code, Git, GitHub |
+| 🧰 **Tools** | IntelliJ IDEA, VS Code, Postman, Git, GitHub |
 
 </div>
 
