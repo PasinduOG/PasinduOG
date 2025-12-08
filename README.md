@@ -51,7 +51,7 @@ My goal is to understand **how systems work under the hood** and gradually move 
 [![Databases](https://skillicons.dev/icons?i=mysql,mongodb&perline=20)](https://skillicons.dev)
 
 ### 🧰 Tools
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,idea,webstrom,figma&perline=20)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,idea,webstorm,figma&perline=20)](https://skillicons.dev)
 
 </div>
 
