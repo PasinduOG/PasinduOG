@@ -75,7 +75,7 @@ My goal is to understand **how systems work under the hood** and gradually move 
 |---------------|----------------|
 | **Java Mastery** | Strengthening core concepts and OOP principles |
 | **Database Management** | Designing ER diagrams and writing efficient queries |
-| **Frameworks** | Learning Node.js and REST API development |
+| **Frameworks** | Learning Spring Boot for REST API and Microservices |
 | **Version Control** | Using Git & GitHub effectively for projects |
 | **System Thinking** | Understanding architecture and scalability gradually |
 
