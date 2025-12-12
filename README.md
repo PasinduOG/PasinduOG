@@ -24,11 +24,11 @@ I'm currently on a journey to become a **Skilled Software Engineer**, developing
 My goal is to understand **how systems work under the hood** and gradually move into **backend and full-stack development**.
 
 ### 🎯 **What I'm Learned**
-- 💻 **Programming fundementals:** Java (Core + OOP + Data Structures)
+- 💻 **Programming fundementals:** Java (Core + OOP + DSA Basics)
 - 🧩 **Backend:** Core Java business logics development, JavaScript API integrations
 - 🧩 **Frameworks:** Node.js, Express.js (HTTP requests & RESTAPIs)
 - 🗄️ **Databases:** MySQL, MongoDB (NoSQL), ER Diagrams
-- ⚙️ **Concepts:** OOP, Basic Data Structures (Stack, Queue, List) and Algorithms  
+- ⚙️ **Concepts:** OOP, Basic Data Structures and Algorithms  
 - 🧠 **Tools:** Git & GitHub (Version Control Mastery)
 
 ### 🌱 **What I'm Learning Next**
