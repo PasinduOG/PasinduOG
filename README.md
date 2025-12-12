@@ -41,10 +41,13 @@ My goal is to understand **how systems work under the hood** and gradually move 
 
 <div align="start">
 
-### 💻 Programming Languages
-[![Programming Languages](https://skillicons.dev/icons?i=java,js&perline=20)](https://skillicons.dev)
+### 💻 Languages
+[![Programming Languages](https://skillicons.dev/icons?i=java,js,ts,php&perline=20)](https://skillicons.dev)
 
-### 🚀 Frameworks
+### 🎨 Frontend Languages and Frameworks
+[![Frameworks](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind&perline=20)](https://skillicons.dev)
+
+### 🚀 Backend Frameworks
 [![Frameworks](https://skillicons.dev/icons?i=npm,nodejs,express&perline=20)](https://skillicons.dev)
 
 ### 🗄️ Databases
