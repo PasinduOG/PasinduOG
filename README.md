@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.ibb.co/zVmY0knm/GHDev-2025-12-12-10-08-08.png" width="100%" />
+<img src="https://i.ibb.co/8nDKT2SD/GHDev-2025-12-12-10-09-24.jpg" width="100%" />
 
 # 👋 Hello World, I'm **Pasindu OG**
 
