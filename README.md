@@ -48,7 +48,7 @@ My goal is to understand **how systems work under the hood** and gradually move 
 [![Frameworks](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind&perline=20)](https://skillicons.dev)
 
 ### 🚀 Backend Frameworks
-[![Frameworks](https://skillicons.dev/icons?i=npm,nodejs,express,spring&perline=20)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=npm,nodejs,express&perline=20)](https://skillicons.dev)
 
 ### 🗄️ Databases
 [![Databases](https://skillicons.dev/icons?i=mysql,mongodb&perline=20)](https://skillicons.dev)
