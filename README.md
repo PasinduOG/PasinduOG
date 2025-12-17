@@ -26,7 +26,7 @@ My goal is to understand **how systems work under the hood** and gradually move 
 ### 🎯 **What I'm Learned**
 - 💻 **Programming fundementals:** Java (Core + OOP + DSA Basics)
 - 🧩 **Backend:** Core Java business logics development, JavaScript API integrations
-- 🧩 **Frameworks:** Node.js, Express.js (HTTP requests & RESTAPIs)
+- 🧩 **Frameworks:** Node.js, Express.js, SpringBoot (HTTP requests & RESTAPIs)
 - 🗄️ **Databases:** MySQL, MongoDB (NoSQL), ER Diagrams
 - ⚙️ **Concepts:** OOP, Basic Data Structures and Algorithms  
 - 🧠 **Tools:** Git & GitHub (Version Control Mastery)
