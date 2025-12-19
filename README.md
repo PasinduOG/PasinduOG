@@ -86,9 +86,9 @@ My goal is to understand **how systems work under the hood** and gradually move 
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PasinduOG&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
-</div>
+![](https://github-readme-stats.vercel.app/api?username=PasinduOG&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=PasinduOG&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PasinduOG&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
