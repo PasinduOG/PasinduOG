@@ -54,7 +54,10 @@ My goal is to understand **how systems work under the hood** and gradually move 
 [![Build Tools](https://skillicons.dev/icons?i=maven,npm&perline=20)](https://skillicons.dev)
 
 ### 🗄️ Databases
-[![Databases](https://skillicons.dev/icons?i=mysql,mongodb&perline=20)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=mysql,mongodb,postgres&perline=20)](https://skillicons.dev)
+
+### ☁️ DevOps
+[![DevOps](https://skillicons.dev/icons?i=aws,docker,googlecloud,heroku&perline=20)](https://skillicons.dev)
 
 ### 🧰 Tools
 [![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,idea,webstorm,figma&perline=20)](https://skillicons.dev)
