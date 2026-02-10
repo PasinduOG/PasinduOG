@@ -40,7 +40,7 @@ My goal is to understand **how systems work under the hood** and gradually move 
 [![Programming Languages](https://skillicons.dev/icons?i=java,js,ts,php&perline=20)](https://skillicons.dev)
 
 ### 🎨 Frontend Languages and Frameworks
-[![Frameworks](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react&perline=20)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,angular&perline=20)](https://skillicons.dev)
 
 ### 🚀 Backend Frameworks
 [![Frameworks](https://skillicons.dev/icons?i=nodejs,express,spring,hibernate&perline=20)](https://skillicons.dev)
