@@ -5,7 +5,7 @@
 # 👋 Hello World, I'm **Pasindu OG**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=🚀+Aspiring+Software+Engineer;🌱+Growing+One+Project+at+a+Time;❇️+One+Mind+Many+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=🚀+Aspiring+Software+Engineer;📚+Java+Library+Creator;🌐+Web+Developer" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ## 🌱 About Me
 
-> 🎓 **Aspiring Software Engineer | Learning to Build the Foundations of Scalable Systems**
+> 🎓 **Aspiring Software Engineer | Java Library Creator**
 
 I'm currently on a journey to become a **Skilled Software Engineer**, developing strong fundamentals in **Java**, **Databases**, and **Backend Concepts**.  
 My goal is to understand **how systems work under the hood** and gradually move into **backend and full-stack development**.
@@ -26,8 +26,9 @@ My goal is to understand **how systems work under the hood** and gradually move 
 ### 🎯 **What I'm Learned**
 - 💻 **Programming fundementals:** Java (Core + OOP + DSA)
 - 🧩 **Backend:** Core Java business logics development, JavaScript API integrations
-- 🧩 **Frameworks:** Node.js, Express.js, SpringBoot (HTTP requests & RESTAPIs)
-- 🗄️ **Databases:** MySQL, MongoDB (NoSQL), ER Diagrams
+- 🎨 **Frontend Frameworks:** React, Angular (CSR)
+- 🧩 **Backend Frameworks:** Node.js, Express.js, SpringBoot
+- 🗄️ **Databases:** MySQL, MongoDB
 - ⚙️ **Concepts:** OOP, Basic Data Structures and Algorithms  
 - 🧠 **Tools:** Git & GitHub
 ---
