@@ -25,67 +25,16 @@ My goal is to understand **how systems work under the hood** and gradually move 
 
 ### 🎯 **What I'm Learned**
 - 💻 **Programming fundementals:** Java (Core + OOP + DSA)
-- 🧩 **Backend:** Core Java business logics development, JavaScript API integrations
-- 🎨 **Frontend Frameworks:** React, Angular (CSR)
-- 🧩 **Backend Frameworks:** Node.js, Express.js, SpringBoot
-- 🗄️ **Databases:** MySQL, MongoDB
-- ⚙️ **Concepts:** OOP, Basic Data Structures and Algorithms  
-- 🧠 **Tools:** Git & GitHub
+- ⚙️ **Concepts:** OOP, Data Structures and Algorithms  
+- 🧠 **Tools:** Git, GitHub, Docker
 ---
 
 ## ⚡ Tech Stack & Tools
 
 <div align="start">
 
-### 💻 Languages
-[![Programming Languages](https://skillicons.dev/icons?i=java,js,ts,php&perline=20)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=java,cs,python,js,ts,bootstrap,tailwind,angular,nodejs,express,spring,dotnet,hibernate,maven,npm,mysql,mongodb,postgres,aws,docker,googlecloud,heroku,git,github,vscode,postman,idea,webstorm,rider,pycharm,figma&perline=10)](https://skillicons.dev)
 
-### 🎨 Frontend Languages and Frameworks
-[![Frameworks](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,angular&perline=20)](https://skillicons.dev)
-
-### 🚀 Backend Frameworks
-[![Frameworks](https://skillicons.dev/icons?i=nodejs,express,spring,hibernate&perline=20)](https://skillicons.dev)
-
-### ⚙️ Build Tools
-[![Build Tools](https://skillicons.dev/icons?i=maven,npm&perline=20)](https://skillicons.dev)
-
-### 🗄️ Databases
-[![Databases](https://skillicons.dev/icons?i=mysql,mongodb,postgres&perline=20)](https://skillicons.dev)
-
-### ☁️ DevOps
-[![DevOps](https://skillicons.dev/icons?i=aws,docker,googlecloud,heroku&perline=20)](https://skillicons.dev)
-
-### 🧰 Tools
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,idea,webstorm,figma&perline=20)](https://skillicons.dev)
-
-</div>
-
----
-
-## 🎓 Education
-
-<div align="center">
-
-### 🏫 **Institute of Computer Engineering Technology (iCET)**
-🎓 *Full-Stack Development Program (iCD)*  
-*Focusing on Enterprise Appications, SDLC and, Advanced System Development.*
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=PasinduOG&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=PasinduOG&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PasinduOG&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PasinduOG&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -106,23 +55,13 @@ My goal is to understand **how systems work under the hood** and gradually move 
 <div align="center">
 
 🤝 **Learning Through Practice | Sharing What I Learn | Growing Every Day**  
-🚀 **Goal:** Build a strong foundation to become a Backend-Focused Software Engineer  
+🚀 **Goal:** Build a strong foundation to become a Full-Stack Software Engineer  
 
 <a href="https://buymeacoffee.com/pasinduogdev" target="_blank">
   <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
 </a>
 
 </div>
-
----
-
-### 🎮 Contribution Game
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PasinduOG/PasinduOG/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PasinduOG/PasinduOG/output/pacman-contribution-graph.svg">
-  <img alt="Pacman game eating my contributions" src="https://raw.githubusercontent.com/PasinduOG/PasinduOG/output/pacman-contribution-graph-dark.svg" width="100%"/>
-</picture>
 
 ---
 
