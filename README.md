@@ -59,19 +59,3 @@ My goal is to understand **how systems work under the hood** and gradually move 
 </a>
 
 </div>
-
----
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
-  
-### 💭 *"Every line of code I write teaches me something new."* ✨
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-
-**Thanks for visiting my profile! Let’s grow and code together! 🚀**
-
-⭐ **If you find my journey inspiring, star my repositories and connect!** ⭐
-
-</div>
