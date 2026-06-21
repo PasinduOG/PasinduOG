@@ -33,7 +33,7 @@ My goal is to understand **how systems work under the hood** and gradually move 
 
 <div align="start">
 
-[![Tech Stack](https://skillicons.dev/icons?i=java,cs,python,js,ts,bootstrap,tailwind,angular,nodejs,express,spring,dotnet,hibernate,maven,npm,mysql,mongodb,postgres,aws,docker,googlecloud,heroku,git,github,vscode,postman,idea,webstorm,rider,pycharm,figma&perline=10)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=java,js,ts,bootstrap,tailwind,react,angular,nodejs,express,nest,spring,hibernate,maven,npm,mysql,mongodb,postgres,aws,docker,heroku,git,github,vscode,postman,idea,webstorm,rider,pycharm,figma&perline=10)](https://skillicons.dev)
 
 </div>
 
