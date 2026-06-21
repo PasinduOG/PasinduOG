@@ -50,12 +50,9 @@ My goal is to understand **how systems work under the hood** and gradually move 
 
 ---
 
-## 💬 My Mission
+## 🫱🏻‍🫲🏻 Support me
 
 <div align="center">
-
-🤝 **Learning Through Practice | Sharing What I Learn | Growing Every Day**  
-🚀 **Goal:** Build a strong foundation to become a Full-Stack Software Engineer  
 
 <a href="https://buymeacoffee.com/pasinduogdev" target="_blank">
   <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
