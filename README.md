@@ -27,8 +27,6 @@ My goal is to understand **how systems work under the hood** and gradually move 
 - 🧠 **Tools:** Git, GitHub, Docker
 ---
 
-## ⚡ Tech Stack & Tools
-
 <div align="start">
 
 [![Tech Stack](https://skillicons.dev/icons?i=java,js,ts,bootstrap,tailwind,react,angular,nodejs,express,nest,spring,hibernate,maven,npm,mysql,mongodb,postgres,aws,docker,heroku,git,github,vscode,postman,idea,webstorm,rider,pycharm,figma&perline=10)](https://skillicons.dev)
